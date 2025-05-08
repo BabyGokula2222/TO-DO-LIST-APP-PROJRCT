@@ -1,4 +1,13 @@
-# TO-DO-LIST-APP-PROJRCT
+# TO-DO-LIST-APP-PROJRCT:
+Project 2: To-Do List App
+• Technologies Used: HTML5, CSS3 and JavaScript
+• Tool: Visual Studio Code
+Description:
+• Developed a user-friendly task management app to add, edit, delete, and mark tasks as completed
+• Implemented dynamic DOM manipulation using JavaScript to update tasks in real time
+• Designed a responsive UI for smooth usage on desktop and mobile devices.
+• Focused on clean code structure and user interactions.
+
 1.TO-DO-LIST.HTML:
 <!DOCTYPE html>
 <html lang="en">
